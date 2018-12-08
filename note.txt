@@ -1,0 +1,2 @@
+xóa đi cột Chanel và Region vì đây là 2 cột về kênh và khu vực, những cột còn lại là về đồ.
+Ta coi 2 cột này như những trường riêng để chia ra từng khu vực này thì có những nhu cầu ntn.
